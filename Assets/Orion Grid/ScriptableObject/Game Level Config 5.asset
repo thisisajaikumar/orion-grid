@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0449b9f80c3834a40a8b7658a718620e, type: 3}
+  m_Name: Game Level Config 5
+  m_EditorClassIdentifier: 
+  levelIndex: 5
+  columns: 6
+  rows: 6
+  timeLimit: 60
+  baseScore: 100
+  comboBonus: 0.25
+  timeBonusPerSec: 10
+  cardIcons:
+  - {fileID: -160336184, guid: 3b4d4f7bcd5538444a425b6cb50dbfb9, type: 3}
+  - {fileID: -1822456887, guid: 3b4d4f7bcd5538444a425b6cb50dbfb9, type: 3}
+  - {fileID: -478407220, guid: 3b4d4f7bcd5538444a425b6cb50dbfb9, type: 3}
+  - {fileID: 219451105, guid: 3b4d4f7bcd5538444a425b6cb50dbfb9, type: 3}
+  - {fileID: 1472676666, guid: 3b4d4f7bcd5538444a425b6cb50dbfb9, type: 3}
+  - {fileID: -581042650, guid: 3b4d4f7bcd5538444a425b6cb50dbfb9, type: 3}
+  - {fileID: 663368714, guid: 3b4d4f7bcd5538444a425b6cb50dbfb9, type: 3}
+  - {fileID: 2033369752, guid: 3b4d4f7bcd5538444a425b6cb50dbfb9, type: 3}
+  - {fileID: 769976537, guid: 3b4d4f7bcd5538444a425b6cb50dbfb9, type: 3}
+  - {fileID: 1790564827, guid: a3c62eee7b51931469df2dfa49499bee, type: 3}
+  - {fileID: -74983606, guid: a3c62eee7b51931469df2dfa49499bee, type: 3}
+  - {fileID: -662141915, guid: a3c62eee7b51931469df2dfa49499bee, type: 3}
+  - {fileID: 1915739794, guid: a3c62eee7b51931469df2dfa49499bee, type: 3}
+  - {fileID: -1113111468, guid: a3c62eee7b51931469df2dfa49499bee, type: 3}
+  - {fileID: -1702954514, guid: a3c62eee7b51931469df2dfa49499bee, type: 3}
+  - {fileID: -1397991440, guid: 4a820546f1abcf44488eb45c22430965, type: 3}
+  - {fileID: 1473440321, guid: 4a820546f1abcf44488eb45c22430965, type: 3}
+  - {fileID: 1985742341, guid: 4a820546f1abcf44488eb45c22430965, type: 3}

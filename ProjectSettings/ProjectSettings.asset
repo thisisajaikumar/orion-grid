@@ -669,7 +669,23 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   webGLPowerPreference: 2
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Android: DOTWEEN;DOTWEEN_NOPHYSICS
+    EmbeddedLinux: DOTWEEN;DOTWEEN_NOPHYSICS
+    GameCoreScarlett: DOTWEEN;DOTWEEN_NOPHYSICS
+    GameCoreXboxOne: DOTWEEN;DOTWEEN_NOPHYSICS
+    LinuxHeadlessSimulation: DOTWEEN;DOTWEEN_NOPHYSICS
+    Lumin: DOTWEEN;DOTWEEN_NOPHYSICS
+    Nintendo Switch: DOTWEEN;DOTWEEN_NOPHYSICS
+    PS4: DOTWEEN;DOTWEEN_NOPHYSICS
+    PS5: DOTWEEN;DOTWEEN_NOPHYSICS
+    Stadia: DOTWEEN;DOTWEEN_NOPHYSICS
+    Standalone: DOTWEEN;DOTWEEN_NOPHYSICS
+    WebGL: DOTWEEN;DOTWEEN_NOPHYSICS
+    Windows Store Apps: DOTWEEN;DOTWEEN_NOPHYSICS
+    XboxOne: DOTWEEN;DOTWEEN_NOPHYSICS
+    iPhone: DOTWEEN;DOTWEEN_NOPHYSICS
+    tvOS: DOTWEEN;DOTWEEN_NOPHYSICS
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
